@@ -1,0 +1,14 @@
+#ignore virtual environment
+venv/
+
+#ignore compiled python files
+__pychace__/
+*.pyc
+
+#ignore credentials / sensitive files
+pyscript/credentials_serviceaccount.json
+pyscript/access.py
+
+# Ignore environment variables
+.env
+*.env
