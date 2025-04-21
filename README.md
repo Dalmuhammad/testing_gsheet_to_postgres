@@ -49,3 +49,7 @@ schema = 'schema_name'  # Schema name for the database
 In access.py, you'll also set the Google Sheets document ID for the spreadsheet you want to access:  
 
 testing_gsheet_1 = 'ID file'  # Replace with your Google Sheets file ID
+
+
+To see the google sheet that i used, you can see in the following link:
+https://docs.google.com/spreadsheets/d/1OlcEL18h9LpnuQ5Y3oUc2N_CsrqMxmTgd_MRR9RabNU/edit?usp=sharing
